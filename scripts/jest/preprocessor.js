@@ -55,6 +55,7 @@ const babelOptions = {
     ],
   ],
   retainLines: true,
+  sourceMaps: 'inline',
 };
 
 module.exports = {
